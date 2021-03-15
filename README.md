@@ -1,6 +1,5 @@
 ### Hi there 👋, my name's Poonam
-#### I'm a Frontend Developer
-
+#### I'm here to collab, contribute and ultimately help build better tools for a fairer world (ambitious?)
 ![](https://github.com/Poonam-raj/Poonam-raj/blob/main/banner%20(1).png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
