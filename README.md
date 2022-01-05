@@ -5,7 +5,6 @@ Skills: JS / HTML / CSS / ANGULAR / PYTHON
 
 - 🌱 I’m a Software Engineer and Mentor at Northcoders
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: The dancefloor is my favourite place. Ever.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Poonam-raj&show_icons=true)  
 
