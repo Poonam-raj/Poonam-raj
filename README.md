@@ -5,6 +5,7 @@ Skills: JS / HTML / CSS / ANGULAR / PYTHON
 
 - 🌱 I’m a Software Engineer and Mentor at Northcoders
 - 😄 Pronouns: she/her 
+-  <a rel="me" href="https://fosstodon.org/@poonam">Mastodon</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Poonam-raj&show_icons=true)  
 
