@@ -4,7 +4,8 @@
 Skills: JS / TS / HTML / CSS / NextJS / React / Node
 
 - 🌱 I’m a Software Engineer and Mentor at Northcoders
-- 😄 Pronouns: she/her 
+- 😄 Pronouns: she/her
+-  <a rel="me" href="[https://www.linkedin.com/in/poonam-rajput/]">LinkedIn</a>
 -  <a rel="me" href="https://fosstodon.org/@poonam">Mastodon</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Poonam-raj&show_icons=true)  
