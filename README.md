@@ -1,5 +1,5 @@
 ### Hi there 👋, my name's Poonam
-#### I'm here to collab, contribute and ultimately help build better tools for a fairer world (ambitious?)
+#### I'm here to collab, contribute and ultimately help build better tools for a fairer world
 
 Skills: JS / TS / HTML / CSS / NextJS / React / Node
 
